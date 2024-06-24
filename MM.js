@@ -1,0 +1,1 @@
+console.log("Media, mediana e moda")
