@@ -1,1 +1,1 @@
-console.log("lucas .")
+console.log("Media, mediana e moda")
