@@ -8,5 +8,8 @@ let media = soma / numero.length;
 
 let mediaInteira = Math.round(media);
 
-console.log("Média:", mediaInteira);
+console.log("-".repeat(17))
 
+console.log("| A média é: ", mediaInteira +" |");
+
+console.log("-".repeat(17))
